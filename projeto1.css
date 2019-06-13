@@ -119,6 +119,7 @@ div#li1 {
 div#li2 {
     float: right;
     padding-right: 150px;
+    margin-left: 80px;
 }
 
 footer {
