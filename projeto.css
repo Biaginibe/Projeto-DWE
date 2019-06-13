@@ -1,0 +1,36 @@
+body{
+	background-image: url('fundo.jpg');
+	background-size: 100%;
+	width: 100%;
+	text-align: center;
+	background-repeat: repeat-y;
+	height: 100%;
+	
+}
+div#navbar{
+	align-items: stretch;
+	background-image: url('fundonavbar.png');
+	background-size: 100%;
+	margin: 10px auto;
+	display: inline-flex;
+	justify-content: space-around;
+	width: 100%;
+	background-repeat: no-repeat;
+}
+nav{
+	margin-top: -22px;
+	font-size: 25px;
+}
+main{
+	margin:0 auto;
+	background-color: #F5F6CE;
+	width: 80%;
+	height:90%;
+	bottom: 0; 
+}
+div.esquerdaimg{
+	left:100;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
