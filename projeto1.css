@@ -1,12 +1,12 @@
 body {
-    background-image: url('fundo.jpg');
+    background-image: url('imagem/fundo.jpg');
     background-size: auto;
     padding: 0;
     margin: 0;
 }
 
 div#navbar {
-    background-image: url('fundonavbar.png');
+    background-image: url('imagem/fundonavbar.png');
     width: 100%;
     display: inline-flex;
     margin-bottom: 30px;
@@ -150,7 +150,7 @@ footer p {
     display: inline;
 }
 
-div#footp {
+div.footp {
     margin-top: 5px;
 }
 
